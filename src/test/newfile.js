@@ -1,1 +1,1 @@
-const content = "Got that content!"
+const content = "Got that!"
